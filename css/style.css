@@ -1,0 +1,12 @@
+body {
+ background-color: #c0c0c0;
+ 
+}
+
+p.texto1{
+    color: #ff0000;
+    font-size: 20px;
+}
+p.texto2{
+    color: #2a558d;
+}
